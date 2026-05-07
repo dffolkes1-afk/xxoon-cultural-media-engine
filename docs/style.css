@@ -1,0 +1,28 @@
+body {
+  background: #0a0a0a;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 42px;
+  color: #7df9ff;
+}
+
+p {
+  color: #cfcfcf;
+  max-width: 700px;
+  line-height: 1.6;
+}
+
+.card {
+  background: #141414;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 16px;
+  border: 1px solid #222;
+}
+
+console.log("XXOON Cultural Media Engine Active");
